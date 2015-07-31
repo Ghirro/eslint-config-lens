@@ -1,0 +1,32 @@
+{
+  "name": "eslint-config-lens",
+  "version": "1.0.0",
+  "description": "Lens' ESLint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lens-app/eslint-config-lens.git"
+  },
+  "keywords": [
+    "code style",
+    "code checker",
+    "code linter",
+    "eslint",
+    "eslintconfig",
+    "javascript",
+    "styleguide"
+  ],
+  "author": "Paolo Moretti <paolo@lens.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lens-app/eslint-config-lens/issues"
+  },
+  "homepage": "https://github.com/lens-app/eslint-config-lens#readme",
+  "dependencies": {
+    "eslint-config-airbnb": "0.0.7",
+    "lodash": "^3.10.0"
+  }
+}
