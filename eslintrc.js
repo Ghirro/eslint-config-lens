@@ -2,6 +2,7 @@ module.exports = {
   rules: {
     "block-scoped-var": 0,
     "func-names": 0,
+    "indent": [2, 2, {"SwitchCase": 1}], // 2 space indentation in switch cases
     "no-param-reassign": 0,
     "no-console": 0,
     "no-else-return": 0,
