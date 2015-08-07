@@ -7,7 +7,7 @@ You can learn more about
 [Shareable Configs](http://eslint.org/docs/developer-guide/shareable-configs) on the
 official ESLint website.
 
-To use the JavaScript Standard Style shareable config, first run this:
+To use Lens shareable config, first run this:
 
 ```bash
 npm install eslint-config-lens babel-eslint eslint-plugin-react
