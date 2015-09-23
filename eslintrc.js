@@ -1,7 +1,6 @@
 module.exports = {
   plugins: [
     'react',
-    'require-path-exists',
   ],
   rules: {
     'block-scoped-var': 0,
@@ -19,8 +18,5 @@ module.exports = {
     'react/jsx-curly-spacing': [1, 'never'],
     'react/sort-comp': 0,
     'react/no-multi-comp': 0,
-    'require-path-exists/exists': 2,
-    'require-path-exists/notEmpty': 0,
-    'require-path-exists/tooManyArguments': 2,
   },
 };
