@@ -1,5 +1,6 @@
 module.exports = {
   plugins: [
+    'import',
     'react',
   ],
   rules: {
@@ -15,6 +16,12 @@ module.exports = {
     'no-use-before-define': [2, 'nofunc'],
     'one-var': 0,
     'spaced-comment': 0,
+    'import/default': 0,
+    'import/export': 2,
+    'import/named': 0,
+    'import/no-duplicates': 2,
+    'import/no-unresolved': 2,
+    'react/jsx-quotes': 0,
     'react/jsx-curly-spacing': [1, 'never'],
     'react/sort-comp': 0,
     'react/no-multi-comp': 0,
