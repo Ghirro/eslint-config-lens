@@ -10,7 +10,7 @@ official ESLint website.
 To use Lens shareable config, first run this:
 
 ```bash
-npm i eslint-config-lens babel-eslint eslint-plugin-react eslint-plugin-import
+npm i eslint-config-airbnb@0.1.0 eslint-config-lens babel-eslint eslint-plugin-react eslint-plugin-import
 ```
 
 Then, add this to your .eslintrc file:
