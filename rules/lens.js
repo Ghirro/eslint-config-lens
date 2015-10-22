@@ -24,6 +24,7 @@ module.exports = {
     'import/no-unresolved': 2,
     'react/jsx-quotes': 0,
     'react/jsx-curly-spacing': [1, 'never'],
+    'react/jsx-no-duplicate-props': 2,
     'react/sort-comp': 0,
     'react/no-multi-comp': 0,
   },
