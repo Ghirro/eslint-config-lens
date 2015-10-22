@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-lens",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "Lens' ESLint config",
   "main": "index.js",
   "scripts": {
