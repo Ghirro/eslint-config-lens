@@ -24,12 +24,5 @@
   "bugs": {
     "url": "https://github.com/lens-app/eslint-config-lens/issues"
   },
-  "homepage": "https://github.com/lens-app/eslint-config-lens#readme",
-  "peerDependencies": {
-    "babel-eslint": "^4.1.6",
-    "eslint-config-airbnb": "0.1.0",
-    "eslint": "^1.10.1",
-    "eslint-plugin-import": "^0.10.0",
-    "eslint-plugin-react": "^3.10.0"
-  }
+  "homepage": "https://github.com/lens-app/eslint-config-lens#readme"
 }

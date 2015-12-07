@@ -17,6 +17,6 @@ Then, add this to your .eslintrc file:
 
 ```
 {
-  "extends": "eslint-config-lens"
+  "extends": "lens"
 }
 ```
